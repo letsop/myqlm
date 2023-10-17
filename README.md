@@ -1,8 +1,13 @@
 # QT-quantic myqlm
+
+Les notebooks sont numérotés de 1 à 6 par complexité croissante (à mon avis...)
+
 myqlm  n'est pas dispo directement sur google colab. 
 Donc :
-Si vous utilisez google colab ouvrez les notebooks 1à6_colab_
-Si vous êtes en local ouvrez les notebooks 1à6_
+
+Si vous utilisez google colab ouvrez les notebooks i_colab_* pour i=1,..,6
+
+Si vous êtes en local ouvrez les notebooks i_* pour i=1,..,6
 
 Pour lancer le bloc-notes sur Google colab:
 To launch the jupyter notebook on Google colab:<a target="_blank" href="https://colab.research.google.com/github/letsop/myqlm/">
